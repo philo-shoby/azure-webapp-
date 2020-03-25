@@ -7,6 +7,8 @@ Open Cloud Shell Terminal.
 
 Type- `git clone [https://github.com/philo-shoby/gcp-sample-webapp]`
 
+Change the directory to `gcp-sample-webapp`
+
 To start development server, type- `dev_appserver.py app.yaml`
 
 Click web preview to see the developed page.
